@@ -108,6 +108,8 @@ a {
 @media (max-width: 739px) {
 	.side-nav {
 		background: none;
+		display: flex;
+		justify-content: center;
 	}
 	.side-nav ul {
 		margin-top: 10px;
